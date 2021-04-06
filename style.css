@@ -144,6 +144,10 @@ img {
     margin: 20px;
 }
 
+.header__inner {
+    margin: 40px 0;
+}
+
 .head-logo {
     margin: 0 5px;
     padding: 3px;
